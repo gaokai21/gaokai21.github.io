@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://gaokai21.github.io/sitemap.xml
